@@ -1,0 +1,53 @@
+{
+  "test_accuracy_mean": 0.6135802469135803,
+  "test_accuracy_std": 0.014532006809707709,
+  "test_macro_precision_mean": 0.6128975689520875,
+  "test_macro_precision_std": 0.014634258105564952,
+  "test_macro_recall_mean": 0.6135802469135803,
+  "test_macro_recall_std": 0.014532006809707709,
+  "test_macro_f1_mean": 0.6102463357838467,
+  "test_macro_f1_std": 0.015032495510689518,
+  "fold_details": [
+    {
+      "best_model_path": "E:\\wfr\\code\\EEG\\result_eegneteca_cv5\\fold_0\\best_model_fold0.pth",
+      "best_val_acc": 0.6555555555555556,
+      "best_epoch": 98,
+      "n_chans": 22,
+      "n_times": 1125,
+      "n_classes": 4
+    },
+    {
+      "best_model_path": "E:\\wfr\\code\\EEG\\result_eegneteca_cv5\\fold_1\\best_model_fold1.pth",
+      "best_val_acc": 0.6481481481481481,
+      "best_epoch": 77,
+      "n_chans": 22,
+      "n_times": 1125,
+      "n_classes": 4
+    },
+    {
+      "best_model_path": "E:\\wfr\\code\\EEG\\result_eegneteca_cv5\\fold_2\\best_model_fold2.pth",
+      "best_val_acc": 0.6037037037037037,
+      "best_epoch": 74,
+      "n_chans": 22,
+      "n_times": 1125,
+      "n_classes": 4
+    },
+    {
+      "best_model_path": "E:\\wfr\\code\\EEG\\result_eegneteca_cv5\\fold_3\\best_model_fold3.pth",
+      "best_val_acc": 0.6172839506172839,
+      "best_epoch": 93,
+      "n_chans": 22,
+      "n_times": 1125,
+      "n_classes": 4
+    },
+    {
+      "best_model_path": "E:\\wfr\\code\\EEG\\result_eegneteca_cv5\\fold_4\\best_model_fold4.pth",
+      "best_val_acc": 0.6234567901234568,
+      "best_epoch": 66,
+      "n_chans": 22,
+      "n_times": 1125,
+      "n_classes": 4
+    }
+  ],
+  "base_seed": 42
+}

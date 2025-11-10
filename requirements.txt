@@ -1,0 +1,26 @@
+# ========== Core Deep Learning ==========
+torch==2.6.0+cu118
+torchaudio==2.6.0+cu118
+braindecode==0.8.1
+
+# ========== EEG Data Processing ==========
+mne==1.8.0
+moabb==1.2.0
+pyriemann==0.7
+
+# ========== Machine Learning & Utilities ==========
+scikit-learn==1.5.2
+numpy==1.26.3
+scipy==1.13.1
+pandas==2.2.3
+einops==0.8.1
+h5py==3.13.0
+
+# ========== Visualization ==========
+matplotlib==3.9.4
+seaborn==0.12.2
+tqdm==4.67.1
+tensorboardX==2.6.2.2
+
+# ========== Misc ==========
+typing_extensions==4.12.2
